@@ -1,0 +1,40 @@
+# Sharken
+
+> Sharken é uma software house brasileira com engenharia acelerada por IA, de São José dos Campos (SP), que atende todo o Brasil de forma 100% remota. Desenvolve aplicativos iOS e Android, plataformas web e SaaS, MVPs para startups, agentes e automações de IA e sistemas sob medida, todos em código, com a primeira entrega no ar em 2 semanas. Também faz landing pages profissionais para profissionais e pequenos negócios, entregues em 3 a 7 dias.
+
+A Sharken fala com o empreendedor, sem tecniquês: entende o negócio antes de escolher a tecnologia. Agentes de IA aceleram testes, documentação, telas e integrações, e toda entrega passa por revisão de um engenheiro sênior e por testes automatizados. Código e dados são tratados com confidencialidade e dentro da LGPD.
+
+## Páginas
+
+- [Início](https://www.sharken.com.br/): software house com engenharia acelerada por IA: serviços, método, case e perguntas frequentes
+- [Landing pages](https://www.sharken.com.br/landing-pages): landing pages profissionais que atraem clientes prontos para pagar, entrega em 3 a 7 dias
+- [Política de privacidade](https://www.sharken.com.br/politica-de-privacidade)
+- [Termos de uso](https://www.sharken.com.br/termos-de-uso)
+
+## Serviços
+
+- Aplicativos e plataformas: apps iOS e Android, plataformas web e SaaS feitos como produto, publicados e prontos para crescer
+- MVP para startups: produto mínimo em código, no ar em poucas semanas, com investimento enxuto
+- IA aplicada e agentes: agentes de IA, assistentes dentro do produto e automações integradas aos sistemas que a empresa já usa
+- Sistemas sob medida: ferramentas para a operação, integrações e APIs, painéis de dados
+- Landing pages: página profissional de apresentação do negócio, pensada para converter visitantes em clientes
+
+## Método
+
+- Discovery, design, desenvolvimento e deploy num processo só, com o cliente acompanhando cada etapa em tempo real
+- Agentes de IA cuidam de testes, documentação e telas repetitivas; o que levava semanas sai em dias
+- Decisões de arquitetura e revisão final sempre feitas por uma pessoa sênior
+- Repositórios, contas nas lojas, domínios e servidores ficam no nome da empresa do cliente desde o início
+- A Sharken assina acordo de confidencialidade (NDA) antes de o cliente contar os detalhes da ideia
+- Depois do lançamento, o produto continua evoluindo com melhorias, novas funcionalidades e suporte
+
+## Perguntas frequentes
+
+- Quanto custa? Depende do escopo, das plataformas e das integrações. Depois de uma conversa gratuita, o cliente recebe uma proposta com escopo, prazo e valor fechados.
+- Em quanto tempo o MVP fica no ar? As primeiras entregas testáveis chegam em poucas semanas; o prazo total é definido no planejamento.
+- Quanto tempo leva uma landing page? De 3 a 7 dias depois do kick-off, com fotos, textos e informações do negócio em mãos. O cliente só precisa de hospedagem e domínio.
+
+## Contato
+
+- [WhatsApp](https://wa.me/message/AFEFSOLS3Y3DC1): conversa gratuita, resposta rápida
+- E-mail: contato@sharken.com.br

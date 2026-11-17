@@ -7,7 +7,7 @@ const outfit = Outfit({ variable: "--font-outfit", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sharken · Software house com engenharia acelerada por IA",
+  title: "Sharken",
   description:
     "A software house de quem tem pressa de ver o produto no ar. Apps, plataformas, MVPs e IA aplicada, em código e sem tecniquês.",
 };
