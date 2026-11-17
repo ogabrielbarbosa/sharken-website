@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bg: #09090b;
+  --color-card: #111113;
+  --color-card-2: #171719;
+  --color-fg: #fafafa;
+  --color-mute: #a1a1aa;
+  --color-dim: #71717a;
+  --color-line: rgb(255 255 255 / 0.1);
+  --color-brand: #1f88c0;
+  --color-brand-2: #5cb8e8;
+
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-outfit);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  overflow-x: clip;
+  background: var(--color-bg);
+  color: var(--color-fg);
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: clip;
+  font-family: var(--font-inter), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: rgb(31 136 192 / 0.45);
+}
+
+/* Painel em degradê "vidro azul" usado atrás dos mockups */
+.glass-gradient {
+  background:
+    radial-gradient(120% 90% at 0% 100%, #dfe5e9 0%, transparent 55%),
+    radial-gradient(90% 80% at 100% 0%, #d7dfe4 0%, transparent 50%),
+    linear-gradient(135deg, #c7d2d9 0%, #7fb0cb 32%, #1f88c0 52%, #8fbad1 72%, #d3dbe0 100%);
+}
+
+.text-gradient-sky {
+  background: linear-gradient(180deg, #e3f3fc 0%, #8fd0f3 45%, #3fa3da 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@keyframes marquee-y {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
+}
+
+.marquee-y {
+  animation: marquee-y var(--duration, 40s) linear infinite;
+}
+
+.marquee-y:hover {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-y { animation: none; }
+  html { scroll-behavior: auto; }
+}
